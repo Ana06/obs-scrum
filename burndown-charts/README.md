@@ -6,7 +6,7 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
 
 ## Starting a new Sprint
 
-- Run from `/burndown-charts/current`:
+- Run:
 
   ```shell
   trollolo burndown --new-sprint --plot-to-board
@@ -17,7 +17,7 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
 
 ## Updating the burndown chart
 
-- Run from `/burndown-charts/current`:
+- Run:
 
   ```shell
   trollolo burndown --plot-to-board
